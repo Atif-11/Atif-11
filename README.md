@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Atif</h1>
 <h3 align="center">An enthusiastic Data Analyst from Pakistan</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/Atif-11/Atif-11/assets/119723850/e4dfe9de-cff9-4639-a1be-03c37fb15857)
-">
+<img align="right" alt="coding" width="400" src="![image](https://github.com/Atif-11/Atif-11/assets/119723850/f7d870ed-09d5-450d-999a-978d4a78c658)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atif-11&label=Profile%20views&color=0e75b6&style=flat" alt="atif-11" /> </p>
 
 - 🌱 I’m currently learning **Operating Systems, Microsoft PowerBI**
