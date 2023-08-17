@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Atif</h1>
 <h3 align="center">An enthusiastic Data Analyst from Pakistan</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblB5UlVHSk13NzljTjdyZ3dEcmhPRHNPWmVKUXxBQ3Jtc0tuZ2VMWHp0Ti10WVpRcWJkS05IMUh1RmtXTTdiMXhWQlVtSUR0TWIxa2RTYTBSU2tmMFdhbzE3ZmpDQXp5OW13WEZFR1BYMC10RS1RblZScDh5c05WOFh4dXdYQjVQY0U4Z002TUdWNlp5eUcyVWpySQ&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0">
+<img align="right" alt="coding" width="400" src="![image](https://github.com/Atif-11/Atif-11/assets/119723850/e4dfe9de-cff9-4639-a1be-03c37fb15857)
+">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atif-11&label=Profile%20views&color=0e75b6&style=flat" alt="atif-11" /> </p>
 
 - 🌱 I’m currently learning **Operating Systems, Microsoft PowerBI**
