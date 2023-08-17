@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Atif</h1>
 <h3 align="center">An enthusiastic Data Analyst from Pakistan</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40skhans%2Fdemystifying-basics-of-data-science-fd926f36e855&psig=AOvVaw08K-d3BqhjcwbK6NP49Vx8&ust=1692359399766000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPiY9pjQ44ADFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="400" src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblB5UlVHSk13NzljTjdyZ3dEcmhPRHNPWmVKUXxBQ3Jtc0tuZ2VMWHp0Ti10WVpRcWJkS05IMUh1RmtXTTdiMXhWQlVtSUR0TWIxa2RTYTBSU2tmMFdhbzE3ZmpDQXp5OW13WEZFR1BYMC10RS1RblZScDh5c05WOFh4dXdYQjVQY0U4Z002TUdWNlp5eUcyVWpySQ&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atif-11&label=Profile%20views&color=0e75b6&style=flat" alt="atif-11" /> </p>
 
 - 🌱 I’m currently learning **Operating Systems, Microsoft PowerBI**
