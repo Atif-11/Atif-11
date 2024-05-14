@@ -9,11 +9,12 @@
 
 - 🤝 I’m looking for help with **Open Source Projects to work on.**
 
-- 💬 Ask me about **Java, C, Blender 3d**
+- 💬 Ask me about **Java, C, Blender 3d, Shell, Python**
 
 - 📫 How to reach me: **atif42068@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on LinkedIn:</h3>
+<a href="https://www.linkedin.com/in/sayyed-muhammad-atif-ali-471a5621a/">Sayyed Muhammad Atif Ali</a>
 <p align="left">
 </p>
 
