@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Muhammad Atif</h1>
+<h1 align="center">Hi 👋, Muhammad Atif here!</h1>
 <h3 align="center">An enthusiastic Data Scientist from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atif-11&label=Profile%20views&color=0e75b6&style=flat" alt="atif-11" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atif-11" alt="atif-11" /></a> </p>
 
-- 🌱 I’m currently learning **Angular and Data Science**
+- 🌱 I’m currently learning **Generative AI and Large Language Models**
 
-- 🤝 I’m looking for help with **Open Source Projects to work on.**
+- 🤝 I’m looking for help with **Landing Career Opportunities**
 
-- 💬 Ask me about **Java, C, Blender 3d, Shell, Python**
+- 💬 Ask me about **LLMs, C, Blender 3d, Shell, Python**
 
 - 📫 How to reach me: **atif42068@gmail.com**
 
