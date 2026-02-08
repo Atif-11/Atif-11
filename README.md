@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Muhammad Atif here!</h1>
+<h1 align="center">Hi 👋, Atif Ali here!</h1>
 <h3 align="center">An enthusiastic Data Analyst from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atif-11&label=Profile%20views&color=0e75b6&style=flat" alt="atif-11" /> </p>
